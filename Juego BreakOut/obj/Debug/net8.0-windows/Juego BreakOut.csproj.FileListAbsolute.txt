@@ -1,0 +1,16 @@
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\bin\Debug\net8.0-windows\Juego BreakOut.exe
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\bin\Debug\net8.0-windows\Juego BreakOut.deps.json
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\bin\Debug\net8.0-windows\Juego BreakOut.runtimeconfig.json
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\bin\Debug\net8.0-windows\Juego BreakOut.dll
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\bin\Debug\net8.0-windows\Juego BreakOut.pdb
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego_BreakOut.Form1.resources
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.csproj.GenerateResource.cache
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.AssemblyInfoInputs.cache
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.AssemblyInfo.cs
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.csproj.CoreCompileInputs.cache
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.dll
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\refint\Juego BreakOut.dll
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.pdb
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\Juego BreakOut.genruntimeconfig.cache
+C:\Users\brepe\Desktop\cambios\Juego BreakOut\Juego BreakOut\obj\Debug\net8.0-windows\ref\Juego BreakOut.dll
